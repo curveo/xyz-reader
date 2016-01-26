@@ -1,0 +1,18 @@
+Animations:
+- Cardview click transition (Shared Element?)
+- - Material options for transition animations.
+
+List Activity:
+- Move all resources to Butterknife binds
+-
+
+DetailView Activity:
+- create new view structure completely
+- create new detail Fragment
+-- implement LoaderManager.Loader<Cursor> for data model
+-- Use Material examples for a detailview
+-- Coordinated layout with paralaxing effects.
+-- Set colors from Color Palette
+
+Landscape
+- Cardview

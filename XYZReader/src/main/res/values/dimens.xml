@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="listViewActionBarSize">128dp</dimen>
+    <!-- detail -->
+    <dimen name="detail_photo_height">300dp</dimen>
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+    <dimen name="detail_inner_horiz_margin">16dp</dimen>
+    <dimen name="detail_metabar_vert_padding">16dp</dimen>
+    <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
+    <dimen name="detail_body_bottom_margin">88dp</dimen>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- list -->
+    <integer name="list_column_count">2</integer>
+
+</resources>
